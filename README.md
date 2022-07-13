@@ -1,2 +1,2 @@
 # hackosphere.co
-a community driven company under hackosphere.org
+a community driven COmpany under hackosphere.org
